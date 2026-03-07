@@ -1,0 +1,18 @@
+# Security / API Keys
+.env
+
+# Python Virtual Environment
+venv/
+env/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac OS System Files
+.DS_Store
+
+# User-specific tracking data (Optional: prevents your local feedback from uploading)
+data/evaluation_tracking.jsonl

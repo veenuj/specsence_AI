@@ -1,0 +1,6 @@
+product_id,name,category,price_inr,weight_kg,battery_life_hours,ram_gb,processor,description,review_snippets,availability_status,current_offers
+L1,Acer Aspire Lite,Laptop,28000,1.7,6,8,Intel i3,A budget-friendly laptop for basic everyday tasks.,Keyboard is a bit mushy. Good for the price.,In Stock,5% Cashback on ICICI Credit Cards
+L2,MacBook Air M1,Laptop,75000,1.29,15,8,Apple M1,Incredibly thin and light with unmatched battery life.,Best battery ever. Screen is gorgeous.,Only 2 left in stock!,"No Cost EMI starting at ₹3,500/mo"
+L3,Lenovo IdeaPad Slim 3,Laptop,32000,1.6,8,8,Intel i3,Reliable everyday performer with a decent screen.,"Gets the job done, but battery drains fast if watching videos.",In Stock,Free laptop bag included
+L4,ASUS ROG Strix,Laptop,110000,2.5,4,16,AMD Ryzen 9,Heavy-duty gaming beast with RGB and top-tier cooling.,"Runs every game perfectly, but it's very heavy to carry.",Out of Stock soon,"₹5,000 instant discount on HDFC cards"
+L5,HP Pavilion Aero,Laptop,65000,0.97,10,16,AMD Ryzen 7,"Ultra-lightweight champion, perfect for frequent travelers.",So light I forget it's in my bag! Fast performance.,In Stock,10% off for Students

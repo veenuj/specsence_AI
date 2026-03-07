@@ -1,0 +1,14 @@
+{
+    "user_id": "U001",
+    "age": 28,
+    "base_budget": 40000,
+    "context_tags": [
+        "student",
+        "frequent traveler",
+        "loves movies"
+    ],
+    "product_history": [
+        "purchased wireless mouse",
+        "purchased laptop sleeve"
+    ]
+}
